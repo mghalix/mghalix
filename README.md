@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mohanad
-- 👀 I’m interested in Software Engineering
-- 🌱Computer Science Student
+- 👋 Hi, i am Mohanad
+- 👀 I am interested in Software Engineering
+- 🌱 Computer Science student
