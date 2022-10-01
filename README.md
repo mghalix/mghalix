@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mohanad
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning c#
-
+- 👀 I’m interested in Software Engineering
+- 🌱Computer Science Student
