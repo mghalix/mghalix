@@ -1,3 +1,3 @@
-- 👋 Hi, i am Mohanad
-- 👀 I am interested in Software Engineering
+- 👋 Hi, I am Mohanad
+- 👀 Interested in Software Engineering
 - 🌱 Computer Science Junior
