@@ -1,57 +1,84 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mghalix.mghalix" />
 
-# 👨‍💻 Mohanad Ghali | AI Enthusiast
-## 🚀 About Me
-- 🎓 Fresh Computer Science graduate
-- 🤖 Passionate about Data Science & AI/ML
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohanad+Ghali!;" />
+</h1>
+
+<h3 align="center">An AI Enthusiast 🤖</h3>
 
 
 
-## 🛠 &nbsp;Languages and Tools
+<br/>
 
-<p align="center">
-  <img width="55%" alt="Mohanad Ghali github stats" src="https://github-readme-stats.vercel.app/api?username=mghalix&show_icons=true&hide=contribs,prs,issues&count_private=true&theme=dracula" />
+<div align="center">
+
+🎓 Fresh Computer Science Graduate
+
+🤖 Passionate about Data Science & AI/ML
+
+<!--🔭 I’m currently working on **a navigation system**-->
+
+ <!--🌱 I’m currently learning **DeepLearning, CV**-->
+
+ </div>
+
+
+<div align="center">
+  <a href="mailto:mghalix@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mghalix" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- TODO: Add Portfolio -->
+</div>
+
+---
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,python,mysql,bash" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,opencv,pandas,matplotlib,numpy,scipy,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,obsidian,notion" /><br>
 </p>
+</div>
 
-### Programming Languages
-![C](https://img.shields.io/badge/-black?style=flat&logo=c)&nbsp;
-![CPP](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat)&nbsp;
-![CSharp](https://img.shields.io/badge/CSharp-black?style=flat&logo=dotnet)&nbsp;
-![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-black?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
-![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=%231572B6)
-![Sql](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash&logoColor=white)&nbsp;
+<br/>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=Linux)&nbsp;
-![NeoVim](https://img.shields.io/badge/NeoVim-black?style=flat&logo=neovim)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCode-black?style=flat&logo=vscodium)&nbsp;
-![Obsidian](https://img.shields.io/badge/Obsidian-black?style=flat&logo=obsidian&logoColor=%237C3AED)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-black?style=flat&logo=jira&logoColor=%230052CC)&nbsp;
-![Confluence](https://img.shields.io/badge/Confluence-black?style=flat&logo=confluence&logoColor=%23172B4D)&nbsp;
-### Libraries & Frameworks
-![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=selenium&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv&logoColor=%235C3EE8)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=baremetrics&logoColor=%236078FF)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=%23013243)&nbsp;
-![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=%238CAAE6)&nbsp;
-![Sklearn](https://img.shields.io/badge/Sklearn-black?style=flat&logo=scikitlearn&logoColor=%23F7931E)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow&logoColor=%23FF6F00)&nbsp;
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghalix&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-</p>
-
-
-## 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Mohanad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/mghalix/)
-[![Gmail Badge](https://img.shields.io/badge/-mghalix@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mghalix@gmail.com)](mailto:mghalix@gmail.com)
+---
 
 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mghalix/mghalix/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
+---
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=mghalix&theme=react" alt="streak stats"/></a>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mghalix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mghalix&hide=HTML,JavaScript,CSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+---
+
+<!--
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/mghalix' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+-->
