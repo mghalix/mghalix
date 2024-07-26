@@ -41,6 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,python,mysql,bash" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,opencv,pandas,matplotlib,numpy,scipy,sklearn,tensorflow" />
+    <br>
     <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,obsidian,notion" /><br>
 </p>
 </div>
