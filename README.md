@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mghalix.mghalix" />
+
 # 👨‍💻 Mohanad Ghali | AI Enthusiast
 ## 🚀 About Me
 - 🎓 Fresh Computer Science graduate
