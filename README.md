@@ -35,14 +35,14 @@
 </div>
 
 
-<br>
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,python,mysql,bash" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,opencv,pandas,matplotlib,numpy,scipy,sklearn,tensorflow" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,obsidian,notion" /><br>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,obsidian,notion" /><br/>
 </p>
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mghalix/mghalix/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
@@ -59,15 +59,15 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 <div align=center>
   <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=mghalix&theme=react" alt="streak stats"/></a>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mghalix&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghalix&hide=HTML,JavaScript,CSS,Makefile,Jupyter Notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghalix&layout=compact&theme=react&hide=HTML,JavaScript,CSS,Makefile,Jupyter Notebook&border_radius=10&size_weight=0.5&count_weight=0.5")
 </div>
 
-<br/><br/>
+<br/></br>
 
 
 <!--
