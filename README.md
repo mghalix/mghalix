@@ -13,9 +13,7 @@
 
 <div align="center">
 
-🎓 Fresh Computer Science Graduate
-
-🤖 Passionate about Data Science & AI/ML
+🤖 Passionate about Data Engineering, AI & ML
 
 <!--🔭 I’m currently working on **a navigation system**-->
 
